@@ -1,0 +1,6 @@
+{
+  "name": "토화 (土話, TOHWA) - 핸드메이드 도자기 큐레이션 마켓플레이스",
+  "description": "자연의 흙과 작가의 손끝이 빚어낸 일상의 온기를 전하는 미니멀·자연친화적 핸드메이드 도자기 큐레이션 이커머스 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
